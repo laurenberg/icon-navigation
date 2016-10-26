@@ -28,12 +28,12 @@ html {
 
 @media only screen and (min-width: 60em) {
 
-.logo {
-  text-align: left;
-}
+  .logo {
+    text-align: left;
+  }
 
-.nav {
-  text-align: right;
-}
+  .nav {
+    text-align: right;
+  }
 
 }
